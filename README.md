@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/stolen-moments-caught/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Stolen Moments Caught](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stolen-moments-caught/) |
+| **Get License** | [Commercial Licensing for Stolen Moments Caught](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stolen-moments-caught/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8877c425faa2ee78b7f8dd3420cd924b2b0343c0034e72b78b1b0c9f16074172` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
