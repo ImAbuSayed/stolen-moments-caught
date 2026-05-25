@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/stolen-moments-caught/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Stolen Moments Caught](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stolen-moments-caught/) |
+| **Get License** | [Get License For Stolen Moments Caught](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stolen-moments-caught/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught you looking in the amber glow
+> Moving closer when the lights turn low
+> Every secret that your eyes let slip
+> Tastes like bourbon on my burning lip
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
